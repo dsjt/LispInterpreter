@@ -1,0 +1,4 @@
+* 概要
+LispInterpreterのサンプル。
+
+Javaの練習およびChatGPTの補助によるコーディングの練習用。
